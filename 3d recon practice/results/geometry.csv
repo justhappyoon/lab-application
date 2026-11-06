@@ -1,0 +1,5 @@
+name,scale,err_x_%,err_y_%,err_z_%,chamfer_recon_to_ref_mm,chamfer_ref_to_recon_mm,chamfer_mean_mm
+box_full,681.2155,5.01,-1.69,-0.94,1.500,2.432,1.966
+box_half,668.4479,3.48,-3.35,-0.07,1.961,2.867,2.414
+can_full,977.7210,5.26,4.59,-0.19,1.422,1.561,1.492
+can_half,899.4217,16.47,-24.52,-14.64,6.020,18.789,12.404
